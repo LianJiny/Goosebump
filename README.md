@@ -1,4 +1,4 @@
 Goosebump
 =========
 
-Single Page Application using React.js
+Single Page Application using Facebook's React.js 
